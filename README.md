@@ -4,6 +4,8 @@
 
 Esta extensión te permite visualizar y manipular la influencia y velocidad de tus keyframes de forma gráfica, facilitando la creación de movimientos orgánicos, aceleraciones dramáticas y frenados suaves con una precisión quirúrgica.
 
+<img width="913" height="405" alt="CurveAE" src="https://github.com/user-attachments/assets/39b61f69-170d-4fab-83a8-85cb064c9f04" />
+
 ---
 
 ## ✨ Características Principales
@@ -14,6 +16,8 @@ Esta extensión te permite visualizar y manipular la influencia y velocidad de t
 *   🎨 **Interfaz Integrada**: Diseñada para sentirse como una parte nativa de After Effects, optimizando el espacio de trabajo.
 *   ⚡ **Aplicación en Tiempo Real**: Mira los cambios de tus curvas reflejados instantáneamente en el Graph Editor nativo.
 *   🔄 **Presets de Curvatura**: Aplica rápidamente configuraciones de facilidad (Ease) predefinidas para flujos de trabajo veloces.
+
+<img width="701" height="606" alt="Captura de pantalla 2026-04-28 033018" src="https://github.com/user-attachments/assets/aefa94f3-6cb0-4675-b798-effcfbefe021" />
 
 ---
 
